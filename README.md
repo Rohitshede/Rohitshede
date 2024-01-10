@@ -1,4 +1,4 @@
-![MasterHead](https://camo.githubusercontent.com/1017a31c72fef26066f7e6ccb6b679cd22fd81aa7bd095d5119191da0e0fbc6a/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3630343763613363366261653433353963386664636138352f313631353332313334383433332d55305037414c4b4630434c4b355836454a4b54372f476f6f676c655f436c6f75645f44617461416e616c79746963732d42616e6e65726769662e6769663f666f726d61743d3235303077)]
+![MasterHead](https://camo.githubusercontent.com/1017a31c72fef26066f7e6ccb6b679cd22fd81aa7bd095d5119191da0e0fbc6a/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3630343763613363366261653433353963386664636138352f313631353332313334383433332d55305037414c4b4630434c4b355836454a4b54372f476f6f676c655f436c6f75645f44617461416e616c79746963732d42616e6e65726769662e6769663f666f726d61743d3235303077)
 
 <h1 align="center">Hi 👋, I'm Rohit Shede</h1>
 <h3 align="center">A Passionate Data Scientist From India</h3>
@@ -15,7 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/rohit-shede-520a22249/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rohit-shede-520a22249/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/_rohit_9822_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_rohit_9822_/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/_rohit_9822_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_rohit_9822_/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
